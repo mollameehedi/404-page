@@ -171,7 +171,8 @@ textarea {
   #page404 .content-404 {
     position: relative; }
     #page404 .content-404 .subcontent-404 {
-      width: 100%; }
+      width: 100%;
+      padding: 30% 0px; }
       #page404 .content-404 .subcontent-404 h2 {
         font-size: 80px;
         font-style: normal; }
@@ -186,7 +187,8 @@ textarea {
     #page404 .content-404 {
       position: relative; }
       #page404 .content-404 .subcontent-404 {
-        padding: 30% 0px; }
+        padding: 0% 0px;
+       }
         #page404 .content-404 .subcontent-404 h2 {
           font-size: 30px;
           margin-top: -20px;
