@@ -1,0 +1,56 @@
+#page404 {
+  padding: 50px; }
+  #page404 image {
+    height: 80%; }
+  #page404 .content-404 {
+    position: relative; }
+    #page404 .content-404 .subcontent-404 {
+      width: 100%;
+      padding: 30% 170px; }
+      #page404 .content-404 .subcontent-404 h2 {
+        font-size: 80px;
+        font-style: normal; }
+      #page404 .content-404 .subcontent-404 a {
+        margin-top: 50px; }
+
+@media (min-width: 320px) and (max-width: 768px) {
+  #page404 {
+    padding: 20px; }
+    #page404 image {
+      height: 80%; }
+    #page404 .content-404 {
+      position: relative; }
+      #page404 .content-404 .subcontent-404 {
+        padding: 30% 0px; }
+        #page404 .content-404 .subcontent-404 h2 {
+          font-size: 30px; }
+        #page404 .content-404 .subcontent-404 a {
+          margin-top: 20px; } }
+@media (min-width: 768px) and (max-width: 991px) {
+  #page404 {
+    padding: 20px; }
+    #page404 image {
+      height: 80%; }
+    #page404 .content-404 {
+      position: relative; }
+      #page404 .content-404 .subcontent-404 {
+        padding: 30% 0px; }
+        #page404 .content-404 .subcontent-404 h2 {
+          font-size: 35px; }
+        #page404 .content-404 .subcontent-404 a {
+          margin-top: 20px; } }
+@media (min-width: 991px) and (max-width: 1200px) {
+  #page404 {
+    padding: 20px; }
+    #page404 image {
+      height: 80%; }
+    #page404 .content-404 {
+      position: relative; }
+      #page404 .content-404 .subcontent-404 {
+        padding: 30% 0px; }
+        #page404 .content-404 .subcontent-404 h2 {
+          font-size: 50px; }
+        #page404 .content-404 .subcontent-404 a {
+          margin-top: 20px; } }
+
+/*# sourceMappingURL=main.css.map */
